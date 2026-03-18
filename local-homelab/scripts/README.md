@@ -10,4 +10,9 @@ This directory contains the scripts developed during the local home lab.
 - JSON comparison scripts
 
 ## Purpose
-These scripts were created to practice basic automation, reporting, monitoring logic, and structured output handling across Linux administration tasks.
+These scripts were created to practice:
+- basic automation
+- health reporting
+- monitoring logic
+- structured output handling
+- comparison of system state across report snapshots
