@@ -1,6 +1,4 @@
 # home-lab-security-journey
-Local home lab and AWS security practice journey with Linux, Windows Server, scripting, monitoring, and cloud security labs.
-# home-lab-security-journey
 
 This repository documents my hands-on security practice across two main areas:
 
